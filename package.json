@@ -1,14 +1,21 @@
 {
-  "name": "lab02_express",
+  "name": "glab-s01-lbaltazar-2023-i",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "web.js",
   "scripts": {
-    "dev": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L7O7L/GLAB-S01-LBALTAZAR-2023-I.git"
+  },
+  "author": "Baltazar Segura Luis",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/L7O7L/GLAB-S01-LBALTAZAR-2023-I/issues"
+  },
+  "homepage": "https://github.com/L7O7L/GLAB-S01-LBALTAZAR-2023-I#readme",
   "dependencies": {
     "express": "^4.18.2"
   }
