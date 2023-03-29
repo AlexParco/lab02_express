@@ -1,10 +1,17 @@
 const express = require("express");
 const app = express();
+
 app.get("/", (req, res) => {
   res.sendFile("./static/inicio.html", {
     root: __dirname,
   });
 });
+
+app.get("/contactenos", (req, res) => {
+  res.sendFile("./static/contactenos.html", {
+    root: __dirname
+  })
+})
 
 app.get('/catalogo_clientes', (req, res) => {
 
