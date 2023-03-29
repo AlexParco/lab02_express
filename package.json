@@ -1,5 +1,5 @@
 {
-  "name": "glab-s01-lbaltazar-2023-i",
+  "name": "laboratorio2_web",
   "version": "1.0.0",
   "description": "",
   "main": "web.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/L7O7L/GLAB-S01-LBALTAZAR-2023-I.git"
   },
-  "author": "Baltazar Segura Luis",
+  "author": "Luis, Diego, Alexander, Jhanina",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/L7O7L/GLAB-S01-LBALTAZAR-2023-I/issues"
